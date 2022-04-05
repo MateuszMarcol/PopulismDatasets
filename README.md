@@ -2,7 +2,7 @@
 This repository contains all populism data I've collected. Besides raw files one can find merged datasets, as well as the code used to merge them.
 
 
-- <b>datasets_raw</b>: this file contains following raw datasets:
+- <b>datasets_raw</b>: this file contains following raw datasets (and their codebooks):
   <ul>
   <br><li><i>1999-2019_CHES_v3.dta</i> - University of North Carolina at Chapel Hill's, 31 European countries, 5 waves (2002, 2006, 2010, 2014, 2019), link: https://www.chesdata.eu/our-surveys </li>
   <br><li><i>GlobalPopulismDataset_Hawkins_speeches.csv</i> - level of populist discourse in the speeches of 215 chief executives (presidents and prime ministers) from 66 countries across all continents. The dataset covers 279 government terms and includes more than 1,000 speeches, mostly between 2000 and 2018, link: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LFTQEZ </li>
