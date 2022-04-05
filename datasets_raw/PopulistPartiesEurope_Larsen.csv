@@ -1,0 +1,234 @@
+country,year,party,party_name_short,party_eng,vote_share,seats,rightwing,radicalright,leftwing,valence
+Austria,2009,Bündnis Zukunft Österreich,BZÖ,Alliance for the Future of Austria,4.6,0,1,1,0,0
+Austria,2014,Bündnis Zukunft Österreich,BZÖ,Alliance for the Future of Austria,0.5,0,1,1,0,0
+Austria,1999,Freiheitliche Partei Österreichs,FPÖ,Freedom Party of Austria,23.4,5,1,1,0,0
+Austria,2004,Freiheitliche Partei Österreichs,FPÖ,Freedom Party of Austria,6.3,1,1,1,0,0
+Austria,2009,Freiheitliche Partei Österreichs,FPÖ,Freedom Party of Austria,12.7,2,1,1,0,0
+Austria,2014,Freiheitliche Partei Österreichs,FPÖ,Freedom Party of Austria,19.7,4,1,1,0,0
+Austria,2019,Freiheitliche Partei Österreichs,FPÖ,Freedom Party of Austria,17.2,3,1,1,0,0
+Austria,2004,Liste Dr. Hans-Peter Martin,Martin,Hans-Peter Martin's List,14,2,0,0,0,1
+Austria,2009,Liste Dr. Hans-Peter Martin,Martin,Hans-Peter Martin's List,17.7,3,0,0,0,1
+Belgium,2014,Debout les Belges !,DLB,Belgium Arise,1.1,0,1,1,0,0
+Belgium,1994,Front National,FN,National Front,3,1,1,1,0,0
+Belgium,1999,Front National,FN,National Front,1.5,0,1,1,0,0
+Belgium,2004,Front National,FN,National Front,2.8,0,1,1,0,0
+Belgium,2009,Front National,FN,National Front,1.3,0,1,1,0,0
+Belgium,2009,"Lijst Dedecker – Libertair, Direct, Democratisch",LDD,"List Dedecker - Libertarian, Direct, Democratic",4.5,1,1,0,0,0
+Belgium,2014,Parti Populaire,PP,People's Party,2.2,0,1,0,0,0
+Belgium,2019,Parti Populaire,PP,People's Party,1.7,0,1,1,0,0
+Belgium,1984,Vlaams Blok / Vlaams Belang,VB,Flemish Block / Flemish Interest,1.3,0,1,1,0,0
+Belgium,1989,Vlaams Blok / Vlaams Belang,VB,Flemish Block / Flemish Interest,4.1,1,1,1,0,0
+Belgium,1994,Vlaams Blok / Vlaams Belang,VB,Flemish Block / Flemish Interest,7.8,2,1,1,0,0
+Belgium,1999,Vlaams Blok / Vlaams Belang,VB,Flemish Block / Flemish Interest,9.4,2,1,1,0,0
+Belgium,2004,Vlaams Blok / Vlaams Belang,VB,Flemish Block / Flemish Interest,14.3,3,1,1,0,0
+Belgium,2009,Vlaams Blok / Vlaams Belang,VB,Flemish Block / Flemish Interest,9.9,2,1,1,0,0
+Belgium,2014,Vlaams Blok / Vlaams Belang,VB,Flemish Block / Flemish Interest,4.3,1,1,1,0,0
+Belgium,2019,Vlaams Blok / Vlaams Belang,VB,Flemish Block / Flemish Interest,12.1,3,1,1,0,0
+Bulgaria,2009,Ataka,Ataka,Attack,12,2,1,1,0,0
+Bulgaria,2014,Ataka,Ataka,Attack,3,0,1,1,0,0
+Bulgaria,2019,Ataka,Ataka,Attack,1.1,0,1,1,0,0
+Bulgaria,2019,Balgarija bes Zensura / Prezaredi Balgariya,BBZ/BBT,Bulgaria without censorship / Reload Bulgaria,0.2,0,1,0,0,0
+Bulgaria,2014,Balgarija bes Zensura + VMRO + ZNS + Gergiovden,BBZ/BBT + IMRO + et al.BND + et al.,Bulgaria without censorship + IMRO + others,10.7,2,1,0,0,0
+Bulgaria,2009,Grazhdani za Evropeysko Razvitie na Balgariya,GERB,Citizens for European Development of Bulgaria,24.4,5,0,0,0,1
+Bulgaria,2014,Grazhdani za Evropeysko Razvitie na Balgariya,GERB,Citizens for European Development of Bulgaria,30.4,6,0,0,0,1
+Bulgaria,2019,Grazhdani za Evropeysko Razvitie na Balgariya,GERB,Citizens for European Development of Bulgaria,31.1,6,0,0,0,1
+Bulgaria,2014,Natsionalen Front za Spasenie na Balgariya,NFSB,National Front for the Salvation of Bulgaria,3.1,0,1,1,0,0
+Bulgaria,2019,Natsionalen Front za Spasenie na Balgariya,NFSB,National Front for the Salvation of Bulgaria,1.2,0,1,1,0,0
+Bulgaria,2009,Natsionalno Dvizhenie Simeon Vtori / Nacionalno dviženie za stabilnost i văzhod,NDSV,National Movement Simeon II / National Movement for Stability and Progress,8,2,0,0,0,1
+Bulgaria,2019,Natsionalno Dvizhenie Simeon Vtori / Nacionalno dviženie za stabilnost i văzhod + Novoto Vreme,NDSV + NV,National Movement Simeon II / National Movement for Stability and Progress + NV,1.1,0,0,0,0,1
+Bulgaria,2014,Natsionalno Dvizhenie Simeon Vtori / Nacionalno dviženie za stabilnost i văzhod + others (KOD coalition),NDSV + others,"National Movement Simeon II / National Movement for Stability and Progress + (coalition Coalition United Democrats, KOD)",0.9,0,0,0,0,1
+Bulgaria,2009,"Red, zakonnost i spravedlivost",RZS,"Order, Lawfulness and Justice",4.7,0,1,1,0,0
+Bulgaria,2019,VMRO – Bulgarsko Natsionalno Dvizhenie,IMRO,IMRO – Bulgarian National Movement,7.4,2,1,1,0,0
+Bulgaria,2019,Volya,Volya,Volya,3.6,0,1,1,0,0
+Croatia,2014,Hrvatski laburisti – Stranka rada,HL-SR,Croatian Labourists -- Labour Party,3.4,0,0,0,1,0
+Croatia,2019,Most nezavisnih lista,Most,Bridge of Independent Lists,4.7,0,0,0,0,1
+Croatia,2014,Savez za promjene/ Živi zid,ZiZi,Alliance for Change/ Human Shield,0.5,0,0,0,0,1
+Croatia,2019,Savez za promjene/ Živi zid,ZiZi,Alliance for Change/ Human Shield,5.7,1,0,0,0,1
+Cyprus,2014,Symmaxia,SYM,Citizens' Alliance,6.8,0,0,0,1,0
+Czech Republic,2014,ANO 2011,ANO 2011,ANO 2011,16.1,4,0,0,0,1
+Czech Republic,2019,ANO 2011,ANO 2011,ANO 2011,21.2,6,0,0,0,1
+Czech Republic,2004,Strana zdravého rozumu,SZR,Party of Common Sense,0.3,0,1,0,0,0
+Czech Republic,2014,Strana zdravého rozumu,SZR,Party of Common Sense,1.6,0,1,0,0,0
+Czech Republic,2019,Strana zdravého rozumu,SZR,Party of Common Sense,0.8,0,1,0,0,0
+Czech Republic,2009,Suverenita – blok Jany Bobošíkové / Česká suverenita,S-JB/CS,Sovereignty - Jana Bobosikova Bloc / Czech Sovereignty,4.3,0,1,0,0,0
+Czech Republic,2014,Suverenita – blok Jany Bobošíkové / Česká suverenita,S-JB/CS,Sovereignty - Jana Bobosikova Bloc / Czech Sovereignty,0.1,0,1,0,0,0
+Czech Republic,2019,Suverenita – blok Jany Bobošíkové / Česká suverenita,S-JB/CS,Sovereignty - Jana Bobosikova Bloc / Czech Sovereignty,0.1,0,1,0,0,0
+Czech Republic,2019,Svoboda a přímá demokracie Tomio Okamura,SPD,Freedom and Direct Democracy Tomio Okamura,9.1,2,1,1,0,0
+Czech Republic,2014,Úsvit – Národní koalice / Úsvit Přímé Demokracie,UPD,Dawn of Direct Democracy / Dawn – National Coalition,3.1,0,1,1,0,0
+Czech Republic,2009,Věci veřejné,VV,Public Affairs,2.4,0,0,0,0,1
+Denmark,1999,Dansk Folkeparti,DF,Danish People's Party,5.8,1,1,1,0,0
+Denmark,2004,Dansk Folkeparti,DF,Danish People's Party,6.8,1,1,1,0,0
+Denmark,2009,Dansk Folkeparti,DF,Danish People's Party,15.3,2,1,1,0,0
+Denmark,2014,Dansk Folkeparti,DF,Danish People's Party,26.6,4,1,1,0,0
+Denmark,2019,Dansk Folkeparti,DF,Danish People's Party,10.8,1,1,1,0,0
+Denmark,1979,Fremskridtspartiet,FrP,Progress Party,5.8,1,1,0,0,0
+Denmark,1984,Fremskridtspartiet,FrP,Progress Party,3.5,0,1,0,0,0
+Denmark,1989,Fremskridtspartiet,FrP,Progress Party,5.3,0,1,0,0,0
+Denmark,1994,Fremskridtspartiet,FrP,Progress Party,2.9,0,1,0,0,0
+Denmark,1999,Fremskridtspartiet,FrP,Progress Party,0.7,0,1,0,0,0
+Estonia,2014,Eesti Iseseisvuspartei,EIP,Estonian Independence Party,1.3,0,1,1,0,0
+Estonia,2014,Eesti Konservatiivne Rahvaerakond,EKRE,Conservative People's Party of Estonia,4,0,1,1,0,0
+Estonia,2019,Eesti Konservatiivne Rahvaerakond,EKRE,Conservative People's Party of Estonia,12.7,1,1,1,0,0
+Finland,1999,Perussuomalaiset,PS,True Finns / Finns Party,0.8,0,1,1,0,0
+Finland,2004,Perussuomalaiset,PS,True Finns / Finns Party,0.5,0,1,1,0,0
+Finland,2009,Perussuomalaiset,PS,True Finns / Finns Party,9.8,1,1,1,0,0
+Finland,2014,Perussuomalaiset,PS,True Finns / Finns Party,12.9,2,1,1,0,0
+Finland,2019,Perussuomalaiset,PS,True Finns / Finns Party,13.8,2,1,1,0,0
+France,2009,Debout la république / Debout la France,DLR/DLF,Republic Arise / France Arise,1.8,0,1,0,0,0
+France,2014,Debout la république / Debout la France,DLR/DLF,Republic Arise / France Arise,3.8,0,1,0,0,0
+France,2019,Debout la république / Debout la France,DLR/DLF,Republic Arise / France Arise,3.5,0,1,0,0,0
+France,1984,Front National / Rassemblement National,FN/RN,National Front / National Rally,11,10,1,1,0,0
+France,1989,Front National / Rassemblement National,FN/RN,National Front / National Rally,11.7,10,1,1,0,0
+France,1994,Front National / Rassemblement National,FN/RN,National Front / National Rally,10.5,11,1,1,0,0
+France,1999,Front National / Rassemblement National,FN/RN,National Front / National Rally,5.7,5,1,1,0,0
+France,2004,Front National / Rassemblement National,FN/RN,National Front / National Rally,9.8,7,1,1,0,0
+France,2009,Front National / Rassemblement National,FN/RN,National Front / National Rally,6.3,3,1,1,0,0
+France,2014,Front National / Rassemblement National,FN/RN,National Front / National Rally,24.9,24,1,1,0,0
+France,2019,Front National / Rassemblement National,FN/RN,National Front / National Rally,23.3,22,1,1,0,0
+France,2019,La France Insoumise,LFI,Unbowed France,6.3,6,0,0,1,0
+France,1999,Mouvement National Républicain,MNR,National Republican Movement,3.3,0,1,1,0,0
+France,2004,Mouvement National Républicain,MNR,National Republican Movement,0.3,0,1,1,0,0
+Germany,2019,Alternative für Deutschland,AfD,Alternative for Germany,11,11,1,1,0,0
+Germany,1989,Deutsche Volksunion – Liste D,DVU,German People's Union – List D,1.6,0,1,1,0,0
+Germany,2009,Deutsche Volksunion – Liste D,DVU,German People's Union – List D,0.4,0,1,1,0,0
+Germany,1989,Die Republikaner,REP,The Republicans,7.1,6,1,1,0,0
+Germany,1994,Die Republikaner,REP,The Republicans,3.9,0,1,1,0,0
+Germany,1999,Die Republikaner,REP,The Republicans,1.7,0,1,1,0,0
+Germany,2004,Die Republikaner,REP,The Republicans,1.9,0,1,1,0,0
+Germany,2009,Die Republikaner,REP,The Republicans,1.3,0,1,1,0,0
+Germany,2014,Die Republikaner,REP,The Republicans,0.4,0,1,1,0,0
+Germany,1994,Partei des Demokratischen Sozialismus / Die Linke,PDS/LINKE,PDS / The Left,4.7,0,0,0,1,0
+Germany,1999,Partei des Demokratischen Sozialismus / Die Linke,PDS/LINKE,PDS / The Left,5.8,6,0,0,1,0
+Germany,2004,Partei des Demokratischen Sozialismus / Die Linke,PDS/LINKE,PDS / The Left,6.1,7,0,0,1,0
+Germany,2009,Partei des Demokratischen Sozialismus / Die Linke,PDS/LINKE,PDS / The Left,7.5,8,0,0,1,0
+Germany,2014,Partei des Demokratischen Sozialismus / Die Linke,PDS/LINKE,PDS / The Left,7.4,7,0,0,1,0
+Germany,2019,Partei des Demokratischen Sozialismus / Die Linke,PDS/LINKE,PDS / The Left,5.5,5,0,0,1,0
+Great Britain,2019,Brexit Party,BP,Brexit Party,31.6,29,1,0,0,0
+Great Britain,1999,British National Party,BNP,British National Party,1,0,1,1,0,0
+Great Britain,2004,British National Party,BNP,British National Party,4.9,0,1,1,0,0
+Great Britain,2009,British National Party,BNP,British National Party,6.2,2,1,1,0,0
+Great Britain,2014,British National Party,BNP,British National Party,1.1,0,1,1,0,0
+Great Britain,2004,Respect – The Unity Coalition,RES,Respect – The Unity Coalition,1.5,0,0,0,1,0
+Great Britain,1994,United Kingdom Independence Party,UKIP,United Kingdom Independence Party,1,0,1,0,0,0
+Great Britain,1999,United Kingdom Independence Party,UKIP,United Kingdom Independence Party,7,3,1,0,0,0
+Great Britain,2004,United Kingdom Independence Party,UKIP,United Kingdom Independence Party,16.2,12,1,0,0,0
+Great Britain,2009,United Kingdom Independence Party,UKIP,United Kingdom Independence Party,16.5,13,1,0,0,0
+Great Britain,2014,United Kingdom Independence Party,UKIP,United Kingdom Independence Party,27.5,24,1,0,0,0
+Great Britain,2019,United Kingdom Independence Party,UKIP,United Kingdom Independence Party,3.3,0,1,1,0,0
+Greece,2014,Anexartitoi Ellines,ANEL,Independent Greeks,3.5,1,1,1,0,0
+Greece,2019,Anexartitoi Ellines,ANEL,Independent Greeks,0.8,0,1,1,0,0
+Greece,1999,Dimokratiko Koinoniko Kinima,DIKKI,Democratic Social Movement,6.9,2,0,0,1,0
+Greece,2019,Elliniki Lisi,EL,Greek Solution,4.2,1,1,1,0,0
+Greece,2004,Laïkós Orthódoxos Synagermós,LAOS,Popular Orthodox Rally,4.1,1,1,1,0,0
+Greece,2009,Laïkós Orthódoxos Synagermós,LAOS,Popular Orthodox Rally,7.2,2,1,1,0,0
+Greece,2014,Laïkós Orthódoxos Synagermós,LAOS,Popular Orthodox Rally,2.7,0,1,1,0,0
+Greece,2019,Laïkós Orthódoxos Synagermós + PATRIE,LAOS + PATRIE,Popular Orthodox Rally + Patriotic Radical Union,1.2,0,1,1,0,0
+Greece,2019,Métopo Evropaikís Realistikís Anypakoís,MeRA25,European Realistic Disobedience Front,3,0,0,0,1,0
+Greece,1984,Panellinio Sosialistikó Kínima,PASOK,Panhellenic Socialist Movement,41.6,10,0,0,1,0
+Greece,1989,Panellinio Sosialistikó Kínima,PASOK,Panhellenic Socialist Movement,36,9,0,0,1,0
+Greece,1994,Panellinio Sosialistikó Kínima,PASOK,Panhellenic Socialist Movement,37.6,10,0,0,1,0
+Greece,2019,Plefsi Eleftherias,PE,Course of Freedom,1.6,0,0,0,1,0
+Greece,2009,Synaspismós Rizospastikís Aristerás/SYRIZA,SYN/SYRIZA,Coalition of the Radical Left/SYRIZA,4.7,1,0,0,1,0
+Greece,2014,Synaspismós Rizospastikís Aristerás/SYRIZA,SYN/SYRIZA,Coalition of the Radical Left/SYRIZA,26.6,6,0,0,1,0
+Greece,2019,Synaspismós Rizospastikís Aristerás/SYRIZA,SYN/SYRIZA,Coalition of the Radical Left/SYRIZA,23.8,6,0,0,1,0
+Hungary,2004,Fidesz - Magyar Polgári Szövetség,Fidesz,Fidesz - Hungarian Civic Union,47.4,12,1,0,0,0
+Hungary,2009,Fidesz - Magyar Polgári Szövetség / Kereszténydemokrata Néppárt,Fidesz+KDNP,Fidesz - Hungarian Civic Party / Christian Democratic People's Party,56.4,14,1,0,0,0
+Hungary,2014,Fidesz - Magyar Polgári Szövetség / Kereszténydemokrata Néppárt,Fidesz+KDNP,Fidesz - Hungarian Civic Party / Christian Democratic People's Party,51.5,12,1,0,0,0
+Hungary,2019,Fidesz - Magyar Polgári Szövetség / Kereszténydemokrata Néppárt,Fidesz+KDNP,Fidesz - Hungarian Civic Party / Christian Democratic People's Party,52.6,13,1,1,0,0
+Hungary,2009,Jobbik Magyarországért Mozgalom,Jobbik,Jobbik Movement for a Better Hungary,14.8,3,1,1,0,0
+Hungary,2014,Jobbik Magyarországért Mozgalom,Jobbik,Jobbik Movement for a Better Hungary,14.7,3,1,1,0,0
+Hungary,2019,Jobbik Magyarországért Mozgalom,Jobbik,Jobbik Movement for a Better Hungary,6.3,1,1,1,0,0
+Hungary,2004,Magyar Igazság és Élet Pártja,MIÉP,Hungarian Justice and Life Party,2.4,0,1,1,0,0
+Hungary,2019,Mi Hazánk Mozgalom,MH,Our Homeland Movement,3.3,0,1,1,0,0
+Ireland,1984,Sinn Féin,SF,Sinn Fein,4.9,0,0,0,1,0
+Ireland,1989,Sinn Féin,SF,Sinn Fein,2.2,0,0,0,1,0
+Ireland,1994,Sinn Féin,SF,Sinn Fein,3,0,0,0,1,0
+Ireland,1999,Sinn Féin,SF,Sinn Fein,6.3,0,0,0,1,0
+Ireland,2004,Sinn Féin,SF,Sinn Fein,11.1,1,0,0,1,0
+Ireland,2009,Sinn Féin,SF,Sinn Fein,11.2,0,0,0,1,0
+Ireland,2014,Sinn Féin,SF,Sinn Fein,19.5,3,0,0,1,0
+Ireland,2019,Sinn Féin,SF,Sinn Fein,11.7,1,0,0,1,0
+Italy,1994,Forza Italia / Il Popolo della Libertà,FI / PdL,Forza Italia – The People of Freedom,30.6,27,1,0,0,0
+Italy,1999,Forza Italia / Il Popolo della Libertà,FI / PdL,Forza Italia – The People of Freedom,25.2,22,1,0,0,0
+Italy,2004,Forza Italia / Il Popolo della Libertà,FI / PdL,Forza Italia – The People of Freedom,20.9,16,1,0,0,0
+Italy,2009,Forza Italia / Il Popolo della Libertà,FI / PdL,Forza Italia – The People of Freedom,35.3,29,1,0,0,0
+Italy,2014,Forza Italia / Il Popolo della Libertà,FI / PdL,Forza Italia – The People of Freedom,16.8,13,1,0,0,0
+Italy,2019,Forza Italia / Il Popolo della Libertà,FI / PdL,Forza Italia – The People of Freedom,8.8,7,1,0,0,0
+Italy,2014,Fratelli d'Italia,FdI,Brothers of Italy,3.7,0,1,1,0,0
+Italy,2019,Fratelli d'Italia,FdI,Brothers of Italy,6.4,6,1,1,0,0
+Italy,1989,Lega Lombarda / Lega Nord / Lega Salvini Premier,LL/LN/Lega,Lombard League – Northern League – Lega Salvini Premier,1.8,2,1,0,0,0
+Italy,1994,Lega Lombarda / Lega Nord / Lega Salvini Premier,LL/LN/Lega,Lombard League – Northern League – Lega Salvini Premier,6.6,6,1,0,0,0
+Italy,1999,Lega Lombarda / Lega Nord / Lega Salvini Premier,LL/LN/Lega,Lombard League – Northern League – Lega Salvini Premier,4.5,4,1,0,0,0
+Italy,2004,Lega Lombarda / Lega Nord / Lega Salvini Premier,LL/LN/Lega,Lombard League – Northern League – Lega Salvini Premier,5,4,1,0,0,0
+Italy,2009,Lega Lombarda / Lega Nord / Lega Salvini Premier,LL/LN/Lega,Lombard League – Northern League – Lega Salvini Premier,10.2,9,1,0,0,0
+Italy,2014,Lega Lombarda / Lega Nord / Lega Salvini Premier,LL/LN/Lega,Lombard League – Northern League – Lega Salvini Premier,6.2,5,1,0,0,0
+Italy,2019,Lega Lombarda / Lega Nord / Lega Salvini Premier,LL/LN/Lega,Lombard League – Northern League – Lega Salvini Premier,34.3,29,1,1,0,0
+Italy,2014,Movimento 5 Stelle,M5S,Five Star Movement,21.2,17,0,0,0,1
+Italy,2019,Movimento 5 Stelle,M5S,Five Star Movement,17.1,14,0,0,0,1
+Lithuania,2004,Darbo Partija,DP,Labour Party,30.2,5,0,0,0,1
+Lithuania,2019,Lietuvos Centro Partija,LCP,Lithuanian Centre Party,5.1,0,0,0,0,1
+Lithuania,2009,Tautos Prisikėlimo partija,TPP,National Resurrection Party,1,0,0,0,0,1
+Lithuania,2004,Tvarka ir teisingumas / Liberalų Demokratų Partija,TT,Order and Justice - Liberal Democratic Party,6.8,1,1,0,0,0
+Lithuania,2009,Tvarka ir teisingumas / Liberalų Demokratų Partija,TT,Order and Justice - Liberal Democratic Party,12.2,2,1,0,0,0
+Lithuania,2014,Tvarka ir teisingumas / Liberalų Demokratų Partija,TT,Order and Justice - Liberal Democratic Party,14.3,2,1,0,0,0
+Lithuania,2019,Tvarka ir teisingumas / Liberalų Demokratų Partija,TT,Order and Justice - Liberal Democratic Party,2.7,0,1,0,0,0
+Luxembourg,1994,Aktiounskomitee fir Demokratie an Rentengerechtigkeet / Alternativ Demokratesch Reformpartei,ADR,Action Committee for Democracy and Pensions Justice' / Alternative Democratic Reform Party,6.9,0,1,0,0,0
+Luxembourg,1999,Aktiounskomitee fir Demokratie an Rentengerechtigkeet / Alternativ Demokratesch Reformpartei,ADR,Action Committee for Democracy and Pensions Justice' / Alternative Democratic Reform Party,9,0,1,0,0,0
+Luxembourg,2004,Aktiounskomitee fir Demokratie an Rentengerechtigkeet / Alternativ Demokratesch Reformpartei,ADR,Action Committee for Democracy and Pensions Justice' / Alternative Democratic Reform Party,8,0,1,0,0,0
+Luxembourg,2009,Aktiounskomitee fir Demokratie an Rentengerechtigkeet / Alternativ Demokratesch Reformpartei,ADR,Action Committee for Democracy and Pensions Justice' / Alternative Democratic Reform Party,7.4,0,1,0,0,0
+Luxembourg,2014,Aktiounskomitee fir Demokratie an Rentengerechtigkeet / Alternativ Demokratesch Reformpartei,ADR,Action Committee for Democracy and Pensions Justice' / Alternative Democratic Reform Party,7.5,0,1,0,0,0
+Luxembourg,2019,Aktiounskomitee fir Demokratie an Rentengerechtigkeet / Alternativ Demokratesch Reformpartei,ADR,Action Committee for Democracy and Pensions Justice' / Alternative Democratic Reform Party,10,0,1,0,0,0
+Luxembourg,1989,National Bewegong,NB,National Movement,2.9,0,1,1,0,0
+Luxembourg,1994,National Bewegong,NB,National Movement,2.4,0,1,1,0,0
+Netherlands,1989,Centrum Democraten,CD,Centre Democrats,0.8,0,1,1,0,0
+Netherlands,1994,Centrum Democraten,CD,Centre Democrats,1,0,1,1,0,0
+Netherlands,1984,Centrumpartij,CP,Centre Party,2.5,0,1,1,0,0
+Netherlands,2019,Forum voor Democratie,FvD,Forum for Democracy,11,3,1,1,0,0
+Netherlands,2004,Lijst Pim Fortuyn,LPF,Fortuyn List,2.6,0,1,0,0,0
+Netherlands,1999,Lijstverbinding Centrumdemocraten + Conservatieve Democraten,CD,Centre Democrats + Conservative Democrats,0.5,0,1,1,0,0
+Netherlands,2009,Partij voor de Vrijheid,PVV,Party for Freedom,17,4,1,1,0,0
+Netherlands,2014,Partij voor de Vrijheid,PVV,Party for Freedom,13.3,4,1,1,0,0
+Netherlands,2019,Partij voor de Vrijheid,PVV,Party for Freedom,3.5,0,1,1,0,0
+Netherlands,1989,Socialistiese Partij,SP,Socialist Party,0.7,0,0,0,1,0
+Netherlands,1994,Socialistiese Partij,SP,Socialist Party,1.3,0,0,0,1,0
+Netherlands,1999,Socialistiese Partij,SP,Socialist Party,5,1,0,0,1,0
+Poland,2019,Kukiz'15,Kukiz'15,Kukiz'15,3.7,0,1,1,0,0
+Poland,2004,Liga Polskich Rodzin,LPR,League of Polish Families,15.9,10,1,1,0,0
+Poland,2009,Prawo i Sprawiedliwość,PiS,Law and Justice,27.4,15,1,0,0,0
+Poland,2014,Prawo i Sprawiedliwość,PiS,Law and Justice,31.8,19,1,0,0,0
+Poland,2019,Prawo i Sprawiedliwość,PiS,Law and Justice,45.4,26,1,1,0,0
+Poland,2004,Samoobrona Rzeczypospolitej Polskiej,SRP,Self-Defense of the Republic Poland,10.8,6,0,0,1,0
+Poland,2009,Samoobrona Rzeczypospolitej Polskiej,SRP,Self-Defense of the Republic Poland,1.5,0,0,0,1,0
+Portugal,2019,"Coligação Basta – Chega (Chega + Partido Popular Monárquico, PPM + Cidadania e Democracia Cristã, PPV/CDC)",C-Basta!,Coalition Enough (Enough + People's Monarchist Party + Citizenship and Christian Democracy party,1.5,0,1,1,0,0
+Romania,2014,Partidul Poporului – Dan Diaconescu,PP-DD,People's Party - Dan Diaconescu,3.7,0,0,0,0,1
+Romania,2009,Partidul România Mare,PRM,Greater Romania Party,8.7,3,1,1,0,0
+Romania,2014,Partidul România Mare,PRM,Greater Romania Party,2.7,0,1,1,0,0
+Slovakia,2004,Aliancia nového občana,ANO,Alliance of the New Citizen,4.7,0,0,0,0,1
+Slovakia,2014,Obyčajní ľudia a nezávislé osobnosti,OL'aNO,Ordinary People and Independent,7.5,1,0,0,0,1
+Slovakia,2019,Obyčajní ľudia a nezávislé osobnosti,OL'aNO,Ordinary People and Independent,5.3,1,0,0,0,1
+Slovakia,2009,Slovenská národná strana,SNS,Slovak National Party,5.6,1,1,1,0,0
+Slovakia,2014,Slovenská národná strana,SNS,Slovak National Party,3.6,0,1,1,0,0
+Slovakia,2019,Slovenská národná strana,SNS,Slovak National Party,4.1,0,1,1,0,0
+Slovakia,2004,Slovenská národná strana + Pravá Slovenská národná strana,SNS + PSNS,Slovak National Party + Real Slovak National Party,2,0,1,1,0,0
+Slovakia,2019,Sme Rodina – Boris Kollár,SR,We are family - Boris Kollár,3.2,0,1,1,0,0
+Slovakia,2004,Smer – Sociálna Demokracia,Smer – SD,Direction - Social Democracy,16.9,3,0,0,1,0
+Slovenia,2019,Lista Marjana Šarca,LMŠ,List of Marjan Šarec,15.4,2,0,0,0,1
+Slovenia,2004,Slovenska Demokratska Stranka,SDS,Slovenian Democratic Party,17.7,2,1,0,0,0
+Slovenia,2009,Slovenska Demokratska Stranka,SDS,Slovenian Democratic Party,26.7,2,1,0,0,0
+Slovenia,2014,Slovenska Demokratska Stranka,SDS,Slovenian Democratic Party,24.8,3,1,0,0,0
+Slovenia,2019,Slovenska Demokratska Stranka + Slovenska ljudska stranka,SDS + SLS,Slovenian Democratic Party + Slovenian People's Party,26.3,3,1,0,0,0
+Slovenia,2004,Slovenska Nacionalna Stranka,SNS,Slovenian National Party,5,0,1,1,0,0
+Slovenia,2009,Slovenska Nacionalna Stranka,SNS,Slovenian National Party,2.9,0,1,1,0,0
+Slovenia,2014,Slovenska Nacionalna Stranka,SNS,Slovenian National Party,4,0,1,1,0,0
+Slovenia,2019,Slovenska Nacionalna Stranka,SNS,Slovenian National Party,4,0,1,1,0,0
+Slovenia,2014,Združena Levica / Levica,ZL/Levica,United Left / The Left,5.5,0,0,0,1,0
+Slovenia,2019,Združena Levica / Levica,ZL/Levica,United Left / The Left,6.4,0,0,0,1,0
+Spain,2014,Podemos,Podemos,We Can,8,5,0,0,1,0
+Spain,2019,Podemos + Izquierda Unida (Unidos Podemos),Podemos + IU (UP),United We Can,10.1,6,0,0,1,0
+Spain,2014,Vox,Vox,Vox,1.6,0,1,1,0,0
+Spain,2019,Vox,Vox,Vox,6.2,3,1,1,0,0
+Sweden,1999,Sverigedemokraterna,SD,Sweden Democrats,0.3,0,1,1,0,0
+Sweden,2004,Sverigedemokraterna,SD,Sweden Democrats,1.1,0,1,1,0,0
+Sweden,2009,Sverigedemokraterna,SD,Sweden Democrats,3.3,0,1,1,0,0
+Sweden,2014,Sverigedemokraterna,SD,Sweden Democrats,9.7,2,1,1,0,0
+Sweden,2019,Sverigedemokraterna,SD,Sweden Democrats,15.3,3,1,1,0,0
