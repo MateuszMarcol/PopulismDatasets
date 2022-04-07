@@ -7,8 +7,10 @@
     <br>V-Dem (https://www.v-dem.net/vdemds.html)
     <br>WB basic indicators (https://github.com/MateuszMarcol/PopulismDatasets/blob/main/datasets_raw/WB_basic_indicators.csv
     <br>VParty contains observations for a given party in a given year and I treat it as a "base" dataset. I add a country-year-specific VDem and WB data to each party observation; therefore, all parties from the same country in the same year have the same data assigned. I do not drop any variables from any sets while merging.
+    <br><br><b>The final dataset (in .csv and .dta format) obtained by running this code can be directly downloaded here: https://drive.google.com/drive/folders/1zjuzb77arUZ4CjyDAOWYcUHICLSrfHoZ?usp=sharing</b>
     <br><br><b>Disclaimers</b>:
     <br>- multiple variables in VParty and VDem have the same labels, throught the merging process they have obtained a suffix - "_x" for VParty and "_y" for VDem
   </li>
 </ul>
+
 
